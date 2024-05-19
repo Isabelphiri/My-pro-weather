@@ -1,6 +1,10 @@
 body {
     background-color: rgb(196, 155, 183);
-}
+    font-family:rubik-scribble-regular; 
+       
+ 
+  }
+  
 .weather-app {
     background-color: rgb(179, 33, 82);
     max-width: 600px;
@@ -10,4 +14,6 @@ body {
 
 
 
-}
+
+  }
+  
