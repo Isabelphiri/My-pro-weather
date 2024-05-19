@@ -6,14 +6,32 @@ body {
   }
   
 .weather-app {
-    background-color: rgb(179, 33, 82);
+    background-color: #b32152;
     max-width: 600px;
     margin:45px auto;
-    box-shadow: 0 30px 50px rgb(218, 124, 157);
-    border-radius: 10px
+    box-shadow: 0 30px 50px rgb(207, 101, 138);
+    border-radius: 10px;
+    padding: 30px;
+}
+.search-input {
+    background-color:rgb(214, 70, 166); 
+    border:none;
+    border-radius: 6px;
+    width: 75%;
+    font-size: 16px;
+    padding: 20px;
+}
+.search-button {
+    background:rgb(196, 155, 183);
+    padding: 20px;
+    border: none;
+    font-size: 16px;
+    margin-left: 5px;
+    border-radius: 6px;
+    color:black;
+    line-height: 1;
+    
+}
 
 
-
-
-  }
   
