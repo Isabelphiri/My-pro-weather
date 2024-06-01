@@ -41,7 +41,7 @@ main{
 
 
 }
-.current-temperature {
+.weather-app-data {
     display:flex;
     justify-content: space-between;
 }
